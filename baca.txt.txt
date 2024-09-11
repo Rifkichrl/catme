@@ -1,0 +1,10 @@
+
+npm install puppeteer
+sudo apt-get install libgbm-dev
+sudo apt-get install libasound2
+
+query ambil dari inspect>elements> cari iframe
+
+https://tgsvr.catizen.ai/api/bot/tmas/gameapp/catizenbot#tgWebAppData=query_id***7D
+
+ambil query id masukkan ke query.txt
